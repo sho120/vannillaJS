@@ -7,3 +7,5 @@ console.log(firNum + secNum);
 console.log(firNum * secNum);
 console.log(firNum / secNum);
 console.log(myName+"likes"+secNum);
+
+console.log("plus")
